@@ -1,5 +1,4 @@
-# Implementation of FFD Augmentor: Towards Few-Shot Oracle
-Character Recognition from Scratch
+# Implementation of FFD Augmentor: Towards Few-Shot Oracle Character Recognition from Scratch
 
 Xinyi Zhao, Siyuan Liu, Yikai Wang, Yanwei Fu
 
