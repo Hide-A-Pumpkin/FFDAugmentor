@@ -17,7 +17,7 @@ torch == 1.10.0+cu111
 
 ## Preparing the Dataset
 
-You can get the dataset on 
+You can get the dataset on [Google Drive](https://drive.google.com/drive/folders/1ehMXU6goWxF5MdodiU78v3IEO-pKJVGz?usp=sharing)
 
 [Oracle_FS](https://github.com/avalonstrel/SketchBERT) 
 
