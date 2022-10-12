@@ -29,7 +29,7 @@ Sketch
 
 * To automatically generate the data augmentation file, put the raw data in the ``oralce_fs`` folder or modify the ``path`` variable on line 198 to point the path to the original training set.
 
-* line192-195 are arguments:
+* line190-193 are arguments:
 
     block_num: num of FFD control points(patches)
 
