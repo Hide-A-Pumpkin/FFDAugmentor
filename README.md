@@ -27,7 +27,7 @@ Sketch
 
 ## Generate Augmented Data
 
-* To automatically generate the data augmentation file, put the raw data in the ``oralce_fs`` folder or modify the ``path`` variable on line 198 to point the path to the original training set.
+* To automatically generate the data augmentation file, put the raw data in the ``oralce_fs`` folder or modify the ``path`` variable on line 194 to point the path to the original training set.
 
 * line190-193 are arguments:
 
